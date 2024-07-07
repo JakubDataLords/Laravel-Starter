@@ -4,6 +4,7 @@
 <h3>Clone the Repository</h3>
     git clone https://github.com/+path... 
 # or download the code to your desired path on your computer and go to directory of your downloaded file
+
     cd Larvel-starter
 # Install composer    
     composer install
