@@ -2,7 +2,7 @@
     <p>Welcome to the Laravel Starter repository! This project serves as a foundation for building Laravel applications, featuring an out-of-the-box setup for authentication with Laravel Breeze.</p>
     <h2>Installation</h2>
 <h3>Clone the Repository</h3>
-    git clone https://github.com/+path... 
+    git clone [https://github.com/+path... ](https://github.com/JakubDataLords/Laravel-Starter.git)
 # or download the code to your desired path on your computer and go to directory of your downloaded file <br>
 
     cd Larvel-starter-main
