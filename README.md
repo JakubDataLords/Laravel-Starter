@@ -8,7 +8,7 @@
     cd Larvel-starter
 # Install composer    
     composer install
-# Rename the .env.example<file to <code>.env
+# Rename the .env.example-file to.env
 # Generate a New Application Key
     php artisan key:generate
 # Update Database Settings
