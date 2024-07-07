@@ -3,7 +3,7 @@
     <h2>Installation</h2>
 <h3>Clone the Repository</h3>
     git clone https://github.com/+path... 
-# or download the code to your desired path on your computer and go to directory of your downloaded file
+# or download the code to your desired path on your computer and go to directory of your downloaded file <br>
 
     cd Larvel-starter
 # Install composer    
