@@ -33,7 +33,7 @@
 # Start Application
     php artisan serve
 
-<h3>To access your newlly created database please follow your localpath(example:127.0.0.1/phpmyadmin)</h3>
+<h3>To access your newly created database please follow your localpath(example:127.0.0.1/phpmyadmin)</h3>
 <h3>To access your newlly created project please follow your server localpath(example:http://127.0.0.1:8000)</h3>
 <br>
 <h3>Enjoy!</h3>
