@@ -23,7 +23,7 @@
 
 
 # Run Migrations and Seed Database
-    <pre><code>php artisan migrate
+    php artisan migrate
 #  Populate the database with test or initial data (optional)
     php artisan db:seed
 # Install and Build Frontend Assets
