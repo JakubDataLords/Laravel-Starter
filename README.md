@@ -25,7 +25,7 @@
     <pre><code>php artisan migrate
 #  Populate the database with test or initial data (optional)
     php artisan db:seed
-# Install and Build Frontend Assets</h3>
+# Install and Build Frontend Assets
     npm install
 # Compile, bundle, and optimize the project
     npm run build
