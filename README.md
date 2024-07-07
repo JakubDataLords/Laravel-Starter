@@ -5,7 +5,7 @@
     git clone https://github.com/+path... 
 # or download the code to your desired path on your computer and go to directory of your downloaded file <br>
 
-    cd Larvel-starter
+    cd Larvel-starter-main
 # Install composer    
     composer install
 # Rename the .env.example-file to.env
