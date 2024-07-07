@@ -14,7 +14,7 @@
 # Update Database Settings
  Open the <code>.env</code> file and update the database settings:
   
-    code>DB_CONNECTION=mysql
+    DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
     DB_DATABASE=my_laravel_db   # &lt;- Replace this with your database name
