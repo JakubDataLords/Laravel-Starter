@@ -22,7 +22,7 @@
     DB_PASSWORD=                # &lt;- Default XAMPP has no password for root
 
 
-# Run Migrations and Seed Database
+# Run Migrations
     php artisan migrate
 #  Populate the database with test or initial data (optional)
     php artisan db:seed
